@@ -7,4 +7,7 @@ int main(){
 	int Nilai=1;
 	int NILAI=2;
 	int niLAi=3;
+	
+	double angka(10.5),Angka,ANGKA(3.14);
+	int a(10),b(2),c(12);
 }
