@@ -10,4 +10,7 @@ int main(){
 	cout << "Luas 1 Box Parket   : "<<luas1box<<" m2"<<endl;
 	
 	double jumlahboxp,biayap,biayapg,totalb;
+	
+	jumlahboxp = luasrumah/luas1box;
+	cout << "Jumlah box parket   : "<<jumlahboxp<<endl;
 }
